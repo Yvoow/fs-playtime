@@ -1,3 +1,3 @@
 ALTER TABLE users
-ADD COLUMN fs-playtime INT(11) DEFAULT 0;
+ADD COLUMN fs_playtime INT(11) DEFAULT 0;
 
